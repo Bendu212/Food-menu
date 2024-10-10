@@ -1,0 +1,27 @@
+{
+    "Lunes": {
+        "time": "13:00 - 14:05",
+        "menu": "Pollo al horno con pure de papa",
+        "image": "images/lunes.jpg"
+    },
+    "Martes": {
+        "time": "13:30 - 14:05",
+        "menu": "Arroz con huevo frito",
+        "image": "images/martes.jpg"
+    },
+    "Miercoles": {
+        "time": "13:00 - 14:05",
+        "menu": "Fideos con pescado",
+        "image": "images/miercoles.jpg"
+    },
+    "Jueves": {
+        "time": "13:30 - 14:05",
+        "menu": "Lentejas con ensalada",
+        "image": "images/jueves.jpg"
+    },
+    "Viernes": {
+        "time": "13:00 - 14:05",
+        "menu": "Papas con carne de cerdo y ensalada",
+        "image": "images/viernes.jpg"
+    }
+}
